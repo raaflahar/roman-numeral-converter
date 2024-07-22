@@ -1,0 +1,28 @@
+:root {
+  --dark-charcoal: #101820;
+  --bright-yellow: #fee715;
+}
+
+/* CSS Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bright-yellow);
+  min-height: 100vh;
+}
+
+/* Title Start */
+
+h1 {
+  text-align: center;
+}
+
+/* Title End */
